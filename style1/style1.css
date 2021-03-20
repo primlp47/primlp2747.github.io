@@ -59,7 +59,7 @@ body{
 }
 .catalog{
     width: 50%;
-    background-image: url("img/Rectangle.png");
+    background-image: url("/GitPages/img/Rectangle.png");
     background-size: cover;
     display: flex;
     flex-direction: column;
